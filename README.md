@@ -1,5 +1,5 @@
 <header>
-<h3 align="middle">Welcome to tiagoferreiraf profile!👋
+<h3 align="middle">Welcome to my profile!👋
 </h3>
 </header>
 <div align="center">
